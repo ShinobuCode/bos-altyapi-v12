@@ -1,0 +1,16 @@
+{
+  "name": "sc-bos-altyapi-v12",
+  "version": "1.0.0",
+  "description": "Shinobu Code | Boş Altyapı v12",
+  "main": "shinobu.js",
+  "scripts": {
+    "test": "node shinobu.js"
+  },
+  "author": "Shinobu",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security"
+  }
+}
